@@ -1,0 +1,16 @@
+Version 1.4 (1.8.2018) 
+[New]
+- Support uptruyen.com
+- Option theme
+###
+Version 1.3 (27.7.2018) 
+[New]
+- Support truyentranh8.com, truyentranhtuan.com
+[Bugfix]
+- Fix error when arrange chapter
+- Fix error when remove queue on downloading
+###
+ver 1.2 (26.7.2018) 
+[New]
+- Support mangak.com, hocvientruyentranh.com, 
+truyen.vnsharing.com
